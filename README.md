@@ -12,13 +12,11 @@ Previously worked as an IT Governance Analyst, I have ITIL knowledge and experie
    💬 Ask me about C, Javascript & Git.  
    😄 Pronouns: she/her  
    ⚡ Fun fact: Sometimes I make decisions based on my 8 Ball. 🎱  
-   📫 How to reach me:
-
-</br>
+   📫 How to reach me: <p align="left">
 <a href="https://www.linkedin.com/in/melissahuertamn/"> <img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/in-24.png" width="20px"></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCbTXsfGiE_PU32_krMQeusA"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/yt-24.png" width="20px"></a>&nbsp;
 <a href="https://www.twitter.com/piratelicorne"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/tw-24.png" width="20px"></a>
-
+<p>
 
 ----
 
