@@ -15,7 +15,8 @@ Previously worked as an IT Governance Analyst, I have ITIL knowledge and experie
    📫 How to reach me:
 
 <p align='center'>
-	<img width="24px" src="icons/in-24.png">
+	<a href="https://www.linkedin.com/in/melissahuertamn/">
+		<img src="icons/in-64.png"></a>
   <a href="https://www.youtube.com/channel/UCbTXsfGiE_PU32_krMQeusA"><img src="icons/yt-24.png"></a>
 	<a href="https://www.twitter.com/piratelicorne"><img src="icons/tw-24.png"></a>
 </p>
