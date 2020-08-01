@@ -1,11 +1,12 @@
 ### Hello World!
 
-My name is Melissa H, I'm a Game/Software Developer in process...
-Previously worked as an IT Governance Analyst, I have ITIL knowledge and experience in IT Infrastructure department but I came to **the dark side**. (development)
+My name is Melissa H, I'm a Game/Software Developer in process...  
+
+Previously worked as an IT Governance Analyst, with ITIL knowledge and experience in the IT Infrastructure department but I came to **THE DARK SIDE**. (Development)
 
 ----
 
-   🔭 I’m currently working on 'Printf' (42 project).   
+   🔭 I’m currently working on 'Printf' (42 project), WebSite built with Django(WWC Project).
    🌱 I’m currently learning Dart, Flutter, Unity.  
    👯 I’m looking to collaborate on Mobile Apps, Gaming Apps.  
    🤔 I’m looking for help with Dart, Flutter.  
