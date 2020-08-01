@@ -1,13 +1,5 @@
 ### Hello World!
 
-</br>
-	<a href="https://www.linkedin.com/in/melissahuertamn/">
-		<img src="icons/in.png" alt="Linkedin" width="30px">
-	</a>
-  <a href="https://www.youtube.com/channel/UCbTXsfGiE_PU32_krMQeusA"><img src="icons/yt-24.png"></a>
-	<a href="https://www.twitter.com/piratelicorne"><img src="icons/tw-24.png"></a>
-
-
 My name is Melissa H, I'm a Game/Software Developer in process...
 Previously worked as an IT Governance Analyst, I have ITIL knowledge and experience in IT Infrastructure department but I came to **the dark side**. (development)
 
@@ -21,6 +13,11 @@ Previously worked as an IT Governance Analyst, I have ITIL knowledge and experie
    😄 Pronouns: she/her  
    ⚡ Fun fact: Sometimes I make decisions based on my 8 Ball. 🎱  
    📫 How to reach me:
+
+</br>
+<a href="https://www.linkedin.com/in/melissahuertamn/"> <img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/in.png" width="30px"></a>
+<a href="https://www.youtube.com/channel/UCbTXsfGiE_PU32_krMQeusA"><img src="icons/yt-24.png"></a>
+<a href="https://www.twitter.com/piratelicorne"><img src="icons/tw-24.png"></a>
 
 
 
