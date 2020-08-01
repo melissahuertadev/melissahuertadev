@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**piratelicorne/piratelicorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Melissa H, I'm a Game/Software Developer in process...
+Previously worked as an IT Governance Analyst, I have ITIL knowledge and experience in IT Infrastructure department but I came to **the dark side**. (development)
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   🔭 I’m currently working on 'Printf' (42 project).   
+   🌱 I’m currently learning Dart, Flutter, Unity.  
+   👯 I’m looking to collaborate on Mobile Apps, Gaming Apps.  
+   🤔 I’m looking for help with Dart, Flutter.  
+   💬 Ask me about C, Javascript & Git.  
+   😄 Pronouns: she/her  
+   ⚡ Fun fact: Sometimes I make decisions based on my 8 Ball. 🎱  
+   📫 How to reach me:
+
+<p align='center'>
+	<a href="https://www.linkedin.com/in/melissahuertamn/"><img src=""></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCbTXsfGiE_PU32_krMQeusA"><img src=""></a>&nbsp;&nbsp;
+  <a href="https://www.twitter.com/piratelicorne"><img src=""></a>&nbsp;&nbsp;
+</p>
+
+----
+
+![Meli' Stats](https://github-readme-stats.vercel.app/api?username=piratelicorne&show_icons=true&theme=buefy)
+![Meli' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piratelicorne&hide=jupyter%20notebook&layout=compact)
