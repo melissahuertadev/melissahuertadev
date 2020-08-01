@@ -6,7 +6,7 @@ Previously worked as an IT Governance Analyst, with ITIL knowledge and experienc
 
 ----
 
-   🔭 I’m currently working on 'Printf' (42 project), WebSite built with Django(WWC Project).
+   🔭 I’m currently working on 'Printf' (42 project), WebSite built with Django(WWC Project).  
    🌱 I’m currently learning Dart, Flutter, Unity.  
    👯 I’m looking to collaborate on Mobile Apps, Gaming Apps.  
    🤔 I’m looking for help with Dart, Flutter.  
