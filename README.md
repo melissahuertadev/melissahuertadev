@@ -2,7 +2,7 @@
 
 My name is Melissa H, I'm a Game/Software Developer in process...  
 
-Previously worked as an IT Governance Analyst, with ITIL knowledge and experience in the IT Infrastructure department but I came to **THE DARK SIDE**. (Development)
+Previously worked in the IT Infrastructure department but I came to **THE DARK SIDE**. (Development)
 
 ----
 
