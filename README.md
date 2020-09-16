@@ -6,11 +6,11 @@ Previously worked in the IT Infrastructure department but I came to **THE DARK S
 
 ----
 
-   🔭 I’m currently working on 'Printf' (42 project), WebSite built with Django(WWC Project).  
-   🌱 I’m currently learning Dart, Flutter, Unity.  
+   🔭 I’m currently working on 'Printf' (42 project), WebSite built with React(WWC Project).  
+   🌱 I’m currently learning C#, Unity.  
    👯 I’m looking to collaborate on Mobile Apps, Gaming Apps.  
-   🤔 I’m looking for help with Dart, Flutter.  
-   💬 Ask me about C, Javascript & Git.  
+   🤔 I’m looking for help with C#, Unity.
+   💬 Ask me about C, Javascript, Git & Flutter 🤓.  
    😄 Pronouns: she/her  
    ⚡ Fun fact: Sometimes I make decisions based on my 8 Ball. 🎱  
    📫 How to reach me:       <a href="https://www.linkedin.com/in/melissahuertamn/"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/in-24.png" width="20px"></a> &nbsp;
