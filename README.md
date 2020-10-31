@@ -2,7 +2,7 @@
 
 My name is Melissa H, I'm a Game/Software Developer in process...  
 
-Previously worked in the IT Infrastructure department but I came to **THE DARK SIDE**. (Development)
+Previously worked in the IT Infrastructure department but I came to **THE DARK SIDE**.
 
 ----
 
