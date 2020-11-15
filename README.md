@@ -6,7 +6,7 @@ Previously worked in the IT Infrastructure department but I came to **THE DARK S
 
 ----
 
-   🔭 I’m currently working on 'Printf' (42 project), WebSite built with React(WWC Project).  
+   🔭 I’m currently working on 42's projects (check my status 😉), WebSite built with React(WWC Project).  
    🌱 I’m currently learning C#, Unity.  
    👯 I’m looking to collaborate on Mobile Apps, Gaming Apps.  
    🤔 I’m looking for help with C#, Unity.
