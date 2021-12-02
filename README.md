@@ -19,5 +19,5 @@ Previously worked in the IT Infrastructure department but I came to **THE DARK S
 
 ----
 
-![Meli' Stats](https://github-readme-stats.vercel.app/api?username=melissahuerta&show_icons=true&theme=buefy)
-![Meli' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissahuerta&hide=jupyter%20notebook&layout=compact)
+![Meli' Stats](https://github-readme-stats.vercel.app/api?username=melissahuertadev&show_icons=true&theme=buefy)
+![Meli' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissahuertadev&hide=jupyter%20notebook&layout=compact)
