@@ -1,19 +1,21 @@
-### Hello World!
+### Hello World! 👋 I’m Melissa H. 
 
-My name is Melissa H, I'm a Game/Software Developer in process...  
+I’m a Software Developer since 2019, working remotely and building cool, small apps for fun. I also collaborate with my best friend at LyHDevs, creating apps together.
 
-Previously worked in the IT Infrastructure department but I came to **THE DARK SIDE**.
+Currently, I’m developing a video game and diving deeper into UEFN & Unreal Engine. I work at CTDevelopers, a Peruvian company that builds apps for international clients.  
+  
+  💻 I work remotely, building creative and small apps for fun, while also developing apps with my best friend at **LyHDevs**.  
+  🎮 Currently, I’m diving into UEFN & Unreal Engine.  
+  🏢 I’m part of a Peruvian company that develops apps for international clients.
 
-----
+## 🚀 What I’m up to:  
+   🎮 Exploring Unreal Engine & UEFN  
+   🔹 Developing a new video game  
+   🤝 Looking to collaborate on game projects  
+   💡 Building fun & creative apps
 
-   🔭 I’m currently working on 42's projects (check my status 😉), WebSite built with React(WWC Project).  
-   🌱 I’m currently learning C#, Unity.  
-   👯 I’m looking to collaborate on Mobile Apps, Gaming Apps.  
-   🤔 I’m looking for help with C#, Unity.
-   💬 Ask me about C, Javascript, Git & Flutter 🤓.  
-   😄 Pronouns: she/her  
-   ⚡ Fun fact: Sometimes I make decisions based on my 8 Ball. 🎱  
-   📫 How to reach me:       <a href="https://www.linkedin.com/in/melissahuertadev/"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/in-24.png" width="20px"></a> &nbsp;
+Let’s connect! Feel free to reach out—I'm always up for a chat about coding, gaming, and cool projects.
+<a href="https://www.linkedin.com/in/melissahuertadev/"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/in-24.png" width="20px"></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCbTXsfGiE_PU32_krMQeusA"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/yt-24.png" width="20px"></a>&nbsp;
 <a href="https://www.twitter.com/melihuertam"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/tw-24.png" width="20px"></a>
 
