@@ -1,17 +1,13 @@
 ### Hello World! 👋 I’m Melissa H. 
 
-I’m a Software Developer since 2019, working remotely and building cool, small apps for fun. I also collaborate with my best friend at **LyHDevs**, creating apps together.
+I’m a Software Developer since 2019, working remotely and building creative apps for fun. I collaborate with my best friend at **LyHDevs**, where we develop apps together.
 
-Currently, I’m developing a video game and diving deeper into **UEFN & Unreal Engine**. I work at **CTDevelopers**, a Peruvian company that builds apps for international clients.  
-  
-  💻 I work remotely, building creative and small apps for fun, while also developing apps with my best friend at **LyHDevs**.  
-  🎮 Currently, I’m diving into UEFN & Unreal Engine.  
-  🏢 I’m part of a Peruvian company that develops apps for international clients.
+Currently, I’m exploring **UEFN & Unreal Engine** while developing new video games. I also work at **CTDevelopers**, a Peruvian company building apps for international clients.  
 
 ## 🚀 What I’m up to:  
-   🎮 Exploring Unreal Engine & UEFN  
+   🎮 Diving deeper into Unreal Engine & UEFN  
    🔹 Developing a new video game  
-   🤝 Looking to collaborate on game projects  
+   🤝 Open to collaborate on game projects  
    💡 Building fun & creative apps
 
 Let’s connect! Feel free to reach out—I'm always up for a chat about coding, gaming, and cool projects.
