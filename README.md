@@ -13,7 +13,7 @@ Currently, I’m exploring **UEFN & Unreal Engine** while developing new video g
 Let’s connect! Feel free to reach out—I'm always up for a chat about coding, gaming, and cool projects.
 <a href="https://www.linkedin.com/in/melissahuertadev/"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/in-24.png" width="20px"></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCbTXsfGiE_PU32_krMQeusA"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/yt-24.png" width="20px"></a>&nbsp;
-<a href="https://www.twitter.com/melihuertam"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/tw-24.png" width="20px"></a>
+<a href="https://www.x.com/melihuertadev"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/tw-24.png" width="20px"></a>
 
 ----
 
