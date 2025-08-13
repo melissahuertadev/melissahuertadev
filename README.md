@@ -18,4 +18,5 @@ Let’s connect! Feel free to reach out—I'm always up for a chat about coding,
 ----
 
 ![Meli' Stats](https://github-readme-stats.vercel.app/api?username=melissahuertadev&show_icons=true&theme=buefy)
+![Meli' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissahuertadev&hide=jupyter%20notebook&layout=compact)
 
