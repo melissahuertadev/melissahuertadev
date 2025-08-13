@@ -1,14 +1,19 @@
 ### Hello World! 👋 I’m Melissa H. 
 
-I’m a Software Developer since 2019, working remotely and building creative apps for fun. I collaborate with my best friend at **LyHDevs**, where we develop apps together.
+I’m a Software Developer, working remotely and building creative apps for fun. I collaborate with my friend at **LyHDevs**, where we develop apps together.
 
-Currently, I’m exploring **UEFN & Unreal Engine** while developing new video games. I also work at **CTDevelopers**, a Peruvian company building apps for international clients.  
+Currently, I’m fully focused on **video game development** — creating short, fun games like **Gatacos** in Godot, and exploring **UEFN & Unreal Engine**.  
 
 ## 🚀 What I’m up to:  
-   🎮 Diving deeper into Unreal Engine & UEFN  
-   🔹 Developing a new video game  
-   🤝 Open to collaborate on game projects  
-   💡 Building fun & creative apps
+   🎮 Developing short & experimental video games  
+   🔹 Learning more about Godot, UEFN & Unreal Engine  
+   🐱 Working on Gatacos and other small game concepts  
+    🤝 Open to collaborate on game jams or indie game projects
+
+## 🛠 Skills & Tools:  
+   - Godot Engine (GDScript)
+   - JavaScript, Vue.js, Flutter  
+   - Git, GitHub, Project Management  
 
 Let’s connect! Feel free to reach out—I'm always up for a chat about coding, gaming, and cool projects.
 <a href="https://www.linkedin.com/in/melissahuertadev/"><img src="https://github.com/piratelicorne/piratelicorne/blob/master/icons/in-24.png" width="20px"></a> &nbsp;
